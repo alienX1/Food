@@ -1,0 +1,36 @@
+/* Variables */
+
+:root {
+  --black: rgba(0, 0, 0, 1);
+  --eerie-black: rgba(30, 29, 28, 1);
+  --ebony-clay-2: rgba(35, 35, 60, 0.62);
+  --ebony-clay: rgba(35, 35, 60, 1);
+  --mine-shaft-2: rgba(48, 48, 48, 1);
+  --mine-shaft: rgba(49, 49, 49, 1);
+  --cape-cod: rgba(66, 66, 66, 1);
+  --blueberry: rgba(74, 145, 242, 1);
+  --star-dust: rgba(158, 158, 158, 1);
+  --quill-gray: rgba(210, 210, 210, 1);
+  --sunglo: rgba(238, 106, 110, 1);
+  --black-haze: rgba(246, 246, 246, 1);
+  --romance: rgba(253, 253, 253, 1);
+  --web-orange: rgba(255, 168, 0, 0.329);
+  --yellow-sea: rgba(255, 169, 1, 1);
+  --white: rgba(255, 255, 255, 1);
+
+  --font-size-xs: 12px;
+  --font-size-s: 14px;
+  --font-size-m: 16px;
+  --font-size-l: 18px;
+  --font-size-xl: 21px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 36px;
+
+  --font-family-lato: "Lato";
+  --font-family-lato-regular: "Lato-Regular";
+  --font-family-montserrat: "Montserrat";
+  --font-family-montserrat-bold: "Montserrat-Bold";
+  --font-family-montserrat-medium: "Montserrat-Medium";
+  --font-family-montserrat-regular: "Montserrat-Regular";
+  --font-family-montserrat-semibold: "Montserrat-SemiBold";
+}

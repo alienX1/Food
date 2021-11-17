@@ -1,0 +1,208 @@
+/* -------------------------------- Start homepage -------------------------------------------- */
+
+.frame-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 896px;
+  overflow: hidden;
+  width: 508px;
+}
+
+.overlap-group2 {
+  height: 901px;
+  margin-left: -120px;
+  margin-top: -5px;
+  position: relative;
+  width: 659px;
+}
+
+.overlap-group {
+  height: 897px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 654px;
+}
+
+.vector {
+  height: 826px;
+  left: 110px;
+  position: absolute;
+  top: 71px;
+  width: 509px;
+}
+
+.jo-sonn-m-tz-zd5z720-unsplash {
+  height: 1px;
+  left: 323px;
+  position: absolute;
+  top: 362px;
+  width: 1px;
+}
+
+.image-2 {
+  height: 673px;
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 598px;
+}
+
+.path-1950 {
+  height: 509px;
+  left: 7px;
+  position: absolute;
+  top: 375px;
+  width: 647px;
+}
+
+.path-2 {
+  height: 509px;
+  left: 0;
+  position: absolute;
+  top: 387px;
+  width: 647px;
+}
+
+.text-1 {
+  color: #a5a5a5;
+  font-family: var(--font-family-helvetica-regular);
+  font-size: var(--font-size-xxs);
+  left: 180px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 721px;
+  width: 370px;
+}
+
+.title {
+  color: var(--ebony-clay);
+  font-family: var(--font-family-helvetica-bold);
+  font-size: var(--font-size-xxl);
+  left: 298px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 651px;
+  width: 123px;
+}
+
+.rectangle-14 {
+  height: 39px;
+  left: 277px;
+  position: absolute;
+  top: 818px;
+  width: 176px;
+}
+
+.get-started {
+  color: var(--white);
+  font-family: var(--font-family-helvetica-regular);
+  font-size: var(--font-size-s);
+  left: 319px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 829px;
+  width: 96px;
+}
+
+.group-16195 {
+  height: 10px;
+  left: 332px;
+  position: absolute;
+  top: 774px;
+  width: 64px;
+}
+
+.overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--black-haze);
+  box-shadow: 0px 4px 4px #bebebe40;
+  display: flex;
+  height: 47px;
+  justify-content: flex-end;
+  left: 120px;
+  min-width: 508px;
+  padding: 6.5px 29px;
+  position: absolute;
+  top: 0;
+}
+
+.text-2 {
+  letter-spacing: 0;
+  margin-bottom: 1.5px;
+  min-height: 22px;
+  width: 60px;
+}
+
+.vector-1 {
+  height: 18px;
+  margin-left: 313px;
+  width: 31px;
+}
+
+.vector-2 {
+  height: 12px;
+  margin-bottom: 3px;
+  margin-left: 13px;
+  width: 32px;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat:700");
+@font-face {
+  font-family: "Helvetica-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.animaapp.com/Helvetica-Regular") format("truetype");
+}
+@font-face {
+  font-family: "Helvetica-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://fonts.animaapp.com/Helvetica-Bold") format("truetype");
+}
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.your {
+  background-image: url("https://www.linguahouse.com/linguafiles/md5/d01dfa8621f83289155a3be0970fb0cb");
+
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  position: absolute;
+
+  width: 100%;
+  height: 100%;
+}
+
+.transbox {
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  background-color: rgba(0, 0, 0, 0.479);
+
+  height: 100%;
+  width: 100%;
+}
+
+/* -------------------------------- End homepage -------------------------------------------- */
